@@ -1,8 +1,6 @@
-Elektroniczne Usługi Publiczne cokolwiek zmieniam cosik
+Elektroniczne Usługi Publiczne cokolwiek
 
-| plik | kto | termin |
-|:-:|:-:|-:|
-|eUsluga_pub.md|ja|29 czerwca|
+- [ ] eUsluga_pub.md|ja|29 czerwca|
 
 Elektroniczną Platformę Usług Administracji Publicznej 
 
